@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prophecy, lately found amongst the collections of famous Mr. John Selden. Faithfully rendred in the originall latine, and translated for the English reader.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91070</idno>
+            <idno type="STC">Wing P3677</idno>
+            <idno type="STC">Thomason E989_3</idno>
+            <idno type="STC">ESTC R208176</idno>
+            <idno type="EEBO-CITATION">99867152</idno>
+            <idno type="PROQUEST">99867152</idno>
+            <idno type="VID">119444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119444)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E989[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prophecy, lately found amongst the collections of famous Mr. John Selden. Faithfully rendred in the originall latine, and translated for the English reader.</title>
+                  <author>Selden, John, 1584-1654.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119444:1" rendition="simple:additions"/>
+            <p>A PROPHECY, Lately found amongſt the Collecti<g ref="char:EOLhyphen"/>ons of famous Mr. JOHN SELDEN. Faithfully rendred in the Originall Latine, and Tranſlated for the Engliſh Reader.</p>
+            <p>
+               <hi>LONON,</hi> Printed in the yeer, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119444:2"/>
+            <pb n="1" facs="tcp:119444:2"/>
+            <head>A PROPHECY.</head>
+            <p>
+               <hi>PRinceps e</hi> Scotia <hi>ſecundus, Vxorem ducet Papiſticam, poſt quod, evadet Regum infe<g ref="char:EOLhyphen"/>liciſsimus.</hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>
+               <note place="margin">This needs no Comment.</note>The <hi>ſecond</hi> Prince from <hi>Scotland,</hi> ſhall marry a <hi>Popiſh</hi> Wife; after which, he ſhall become the moſt unhappy of Princes.</p>
+            <p>Prophecy.</p>
+            <p>
+               <hi>Varie exorientur turbe, Populuſque eligit ſibi, <hi>tres</hi> ſucceſsive belli Duces: Comitem, Equitem, &amp; Obſcu<g ref="char:EOLhyphen"/>rum, qui miris artibus, &amp; <hi>Religionis</hi> pretextu, Poteſta<g ref="char:EOLhyphen"/>tem, non Titulum, acquiret ſibi <hi>Regium;</hi> tandemque in
+<pb n="2" facs="tcp:119444:3"/>
+                  <hi>Aula Reg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>li</hi> extinguetur. In cujus Prole, aliquam<g ref="char:EOLhyphen"/>diu durabit lumen accenſum, minor paullo felicius tractabit <hi>Lyram,</hi> bene habebit, ſi ad ejus modulos ſal<g ref="char:EOLhyphen"/>taverit <hi>Monachus.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>Various troubles ſhall ariſe,<note place="margin">Neither this.</note> and the People ſhall chooſe to themſelves three <hi>Generals</hi> ſucceſſively, <hi>viz.</hi> an <hi>Earl,</hi> a <hi>Knight</hi> and an <hi>Obſcure</hi> perſon, who with ſtrange Arts, and <hi>pretences Religious,</hi> ſhall acquire to himſelf the power, but not the title of <hi>King;</hi> In whoſe poſterity the kindled light ſhall, for ſome time, continue. The <hi>younger</hi> Sonne may, more happily, tune the <hi>Harp:</hi> It ſhall goe well if a <hi>Monk</hi> dance to his tune.<note place="margin">Q. Of what Order!</note>
+            </p>
+            <p>Prophecy.</p>
+            <p>
+               <hi>Eodem tempore <hi>Oligarchiae</hi> ſtudebitur &amp; <hi>Monarchiae Vanae,</hi> nec unquam in terris viſibili, cnjus caput Enthu<g ref="char:EOLhyphen"/>ſiaſticum, &amp; fanaticum, <hi>praedicatorum</hi> munus, preter or<g ref="char:EOLhyphen"/>nem ſuum occupabit, &amp; in fumum, cum ſocietate ſua evaneſcet.</hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>
+               <note place="margin">This is ſubmit<g ref="char:EOLhyphen"/>ted to the in<g ref="char:EOLhyphen"/>terpretation of the learned</note>At the ſame time ſome will endeavour to ſet up an <hi>Oligarchy</hi> and <hi>Vane Monarchy,</hi> never to be ſeen upon the Earth. The <hi>Enthuſiaſtick</hi> and Fanatique Head
+<pb n="3" facs="tcp:119444:3"/>whereof ſhall invade the Office of a <hi>Preacher,</hi> beſides his Order, and with his company, ſhall at length vaniſh into ſmoak.</p>
+            <p>Prophecy.</p>
+            <p>
+               <hi>Vs <hi>Londinio,</hi> toti <hi>Clero</hi> &amp; <hi>Juriſperi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is;</hi> ve <hi>Angli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> omni<g ref="char:EOLhyphen"/>bus preterquam <hi>Papicolis,</hi> qui ſub plurimis formis Re<g ref="char:EOLhyphen"/>ligionem ſuam in <hi>Anglia</hi> ſtabilire conabuntur.</hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>Woe to <hi>London;</hi> woe to all the <hi>Clergy</hi> and <hi>Lawyers;</hi>
+               <note place="margin">Deus ave<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> woe to all <hi>Engliſhmen,</hi> but <hi>Papiſts,</hi> who under many ſhapes ſhall endeavour to eſtabliſh their Religion in <hi>England.</hi>
+            </p>
+            <p>Prophecy.</p>
+            <p>
+               <hi>Doctrina &amp; factis ſuperabuntur Larvati <hi>Muncerus</hi> &amp; <hi>Leidenſis. Papiſmus</hi> erit ſibi ſimilis, plureſque ſuccen<g ref="char:EOLhyphen"/>det ignes.</hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>
+               <note place="margin">The former is obvious, the latter too pro<g ref="char:EOLhyphen"/>bable.</note>The Protean <hi>Munſter,</hi> and <hi>John-a-Leyden,</hi> ſhall be ex<g ref="char:EOLhyphen"/>ceeded both in Doctrine and Deeds. Popery ſhall be like it ſelf, and ſhall kindle many Fires.</p>
+            <pb n="4" facs="tcp:119444:4"/>
+            <p>Prophecy.</p>
+            <p>Plurimi tunc deficient, Populuſque jugum excu<g ref="char:EOLhyphen"/>tiet. <hi>Armati</hi> ſentient ſe deludi, &amp; ab <hi>Exule</hi> quodam, ſti<g ref="char:EOLhyphen"/>pendia inſoluta recipient. Sub quo univerſum Cor<g ref="char:EOLhyphen"/>pus: <hi>Florebit,</hi> longo Bello exhauſtum &amp; mirum in modum ditabitur, pace fruetur ſtabili &amp; generali, &amp; Terra, Marique <hi>fortunabitur.</hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>Many ſhall then fall off, and the People ſhall ſhake off ☞ their Yoke. Thoſe in <hi>Armes</hi> ſhall find themſelves de<g ref="char:EOLhyphen"/>luded, and ſhall receive their arrears from one <hi>baniſhed.</hi> Under whom the whole Body, (exhauſted with long War, <note place="margin">Let all who love their Countrey ſay, Amen.</note>) ſhall flouriſh and be wonderfully enriched, ſhall injoy a firm and generall peace, and ſhall be happy by Sea and Land.</p>
+            <p>Prophecy.</p>
+            <p>Redeunt <hi>Saturnia regna.</hi>
+            </p>
+            <p>Engliſhed</p>
+            <p>Happy dayes return.</p>
+            <pb n="5" facs="tcp:119444:4"/>
+            <p>Prophecy.</p>
+            <p>
+               <hi>Felices qui intelligunt, &amp; utuntur.</hi>
+            </p>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <p>Bleſſed are they that underſtand, and make uſe of this.</p>
+            <p>
+               <hi>The Lord in mercy look upon us, and deliver us from the Plots of the</hi> Jeſuit, <hi>lurking under the diſguiſe of</hi> Qua<g ref="char:EOLhyphen"/>kers, Anabaptiſts, <hi>and very many other Profeſsions.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
